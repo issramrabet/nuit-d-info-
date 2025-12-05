@@ -3,7 +3,7 @@ DÉFI : FEMMES & INFORMATIQUE
 NUIT DE L'INFO 2025
 ==========================================
 
-ÉQUIPE : [NOM DE VOTRE ÉQUIPE]
+ÉQUIPE : Nightcoders
 
 MEMBRES DE L'ÉQUIPE :
 • ISSRA MRABET
